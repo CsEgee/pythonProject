@@ -1,10 +1,15 @@
+
 # print("alma")
 #
-# name = "Robert"
+name = "Robert"
 # print(type(name))
 # print(type(5))
 # print(type(name))
-# print("Szia " + name + "!")
+print("Szia " + name + "!")
+
+print(5 + 3)
+
+print("5" + "3")
 
 alap = 3
 kitevo = 4
